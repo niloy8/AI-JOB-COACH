@@ -1,12 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A resume analyzer where users can upload their resume and job requirements. The system calculates the ATS score, highlights strengths and weaknesses, and suggests improved resume content to boost interview chances. An interview assistant where, based on job role, requirements, and experience level(intern, junior, mid, senior), the system generates industry- relevant questions.Users can give audio / video interviews, and the AI analyzes: Voice tone, Sentiment, Confidence, Hand movement, Nervousness, Clarity, Correctness. It then provides scores with personalized improvement suggestions. A Mentor Mode that generates follow - up questions to help users practice and improve further."
